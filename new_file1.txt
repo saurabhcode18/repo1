@@ -1,3 +1,2 @@
-new file added
-new adding the content 
-i am working on git
+i also updated this file 
+hello git 

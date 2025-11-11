@@ -1,1 +1,2 @@
-new file adding
+this file is updated 
+i am working on gitbash 
